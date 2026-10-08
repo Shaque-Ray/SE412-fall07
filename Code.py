@@ -5,3 +5,4 @@ print("Changes made")
 
 print("Lab e eidi ki hocche")
 print("No to Racism")
+print("Hava Nagila")
